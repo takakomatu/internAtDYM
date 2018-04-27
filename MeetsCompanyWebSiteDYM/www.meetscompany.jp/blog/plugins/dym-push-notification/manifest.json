@@ -1,0 +1,14 @@
+{
+    "name": "合同説明会・合説ならMeets Company",
+    "short_name": "Meets Company",
+    "icons": [
+        {
+            "src": "/assets/img/events/events/eventmain1.jpg",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#131b3f"
+}
