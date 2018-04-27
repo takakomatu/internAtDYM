@@ -1,0 +1,52 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 27 Apr 2018 15:00:49 at https://www.meetscompany.jp/events?year=2018 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ja, en, *" https://www.meetscompany.jp/events?year=2018 -O1 "C:\My Web Sites\MeetsCompanyWebSiteDYM" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:01:23	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/linkid.js (from https://www.meetscompany.jp/events?year=2018)
+15:03:21	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/blog/index.php?rest_route=/wp/v2/push-notifications (from https://www.meetscompany.jp/events?year=2018)
+15:03:22	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/assets/img/common/icon_iine.gif (from https://www.meetscompany.jp/assets/css/common.css,q1506393042+font-awesome.min.css,q1439908029+bxslider.css,q1444737468+mCustomScrollbar.css,q1425438208.pagespeed.cc.inBJ-dgKgB.css)
+15:03:22	Warning: 	File not parsed, looks like binary: https://www.meetscompany.jp/assets/fonts/glyphicons-halflings-regular.woff2
+15:03:22	Warning: 	File not parsed, looks like binary: https://www.meetscompany.jp/assets/fonts/fontawesome-webfont.woff2?v=4.4.0
+15:03:23	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/ja_JP/sdk.js)
+15:03:23	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/^([^:/? (from connect.facebook.net/ja_JP/sdk.js)
+15:03:23	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/restserver.php (from connect.facebook.net/ja_JP/sdk.js)
+15:03:23	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/dialog/ (from connect.facebook.net/ja_JP/sdk.js)
+15:04:05	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/mypage/linkid.js (from https://www.meetscompany.jp/mypage/login)
+15:04:05	Warning: 	Found for https://www.meetscompany.jp/auth/login/facebook/
+15:04:05	Warning: 	File has moved from https://www.meetscompany.jp/auth/login/facebook/ to https://www.facebook.com/dialog/oauth?client_id=852490284793892&redirect_uri=https%3A%2F%2Fwww.meetscompany.jp%2Fauth%2Flogin%2Ffacebook%2Fint_callback&scope=email
+15:04:05	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/siteinfo/linkid.js (from https://www.meetscompany.jp/siteinfo/sitemap)
+15:04:05	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/support/linkid.js (from https://www.meetscompany.jp/support/ask)
+15:05:30	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/assets/img/companies/122755/ (from https://www.meetscompany.jp/companies)
+15:05:40	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/assets/img/companies/145950/ (from https://www.meetscompany.jp/companies)
+15:06:14	Error: 	"Method Not Allowed" (405) at link https://www.meetscompany.jp/blog/xmlrpc.php (from https://www.meetscompany.jp/blog/)
+15:06:22	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/blog/linkid.js (from https://www.meetscompany.jp/blog/)
+15:06:56	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/assets/img/common/pagetop2.png (from https://www.meetscompany.jp/assets/css/default.css)
+15:06:56	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/blog/wp-content/themes/twentyfourteen/images/pic1.jpg (from https://www.meetscompany.jp/blog/?p=1419)
+15:06:56	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/blog/wp-content/themes/twentyfourteen/images/pic3.png (from https://www.meetscompany.jp/blog/?p=1419)
+15:06:56	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/blog/wp-content/themes/twentyfourteen/images/pic2.jpg (from https://www.meetscompany.jp/blog/?p=1419)
+15:07:46	Warning: 	Retry after error -5 (Unable to get server's address: そのようなホストは不明です。 ) at link https://www.meetscompany.jphttps://event.meetscompany.jp/wp-content/uploads/2017/12/tokyo.png (from https://www.meetscompany.jp/events/item_detail/40?id=1969)
+15:07:46	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.meetscompany.jphttps://event.meetscompany.jp/wp-content/uploads/2017/12/osaka.png (from https://www.meetscompany.jp/events/item_detail/41?id=1983)
+15:07:46	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.meetscompany.jphttps://event.meetscompany.jp/wp-content/uploads/2017/12/nagoya.png (from https://www.meetscompany.jp/events/item_detail/42?id=1985)
+15:07:46	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.meetscompany.jphttps://event.meetscompany.jp/wp-content/uploads/2018/01/fukuoka.png (from https://www.meetscompany.jp/events/item_detail/44?id=1989)
+15:07:46	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.meetscompany.jphttps://event.meetscompany.jp/wp-content/uploads/2017/12/sapporo.png (from https://www.meetscompany.jp/events/item_detail/43?id=1987)
+15:09:00	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/assets/img/image1/196341/kbys.jpg (from https://www.meetscompany.jp/staffinfo/staffdetail/196341)
+15:09:00	Warning: 	File not parsed, looks like binary: https://www.meetscompany.jp/blog/wp-content/themes/meetscompany/fonts/glyphicons-halflings-regular.woff2
+15:09:00	Warning: 	File not parsed, looks like binary: https://www.meetscompany.jp/blog/wp-content/themes/meetscompany/fonts/fontawesome-webfont.woff2
+15:10:07	Error: 	"Not Found" (404) at link https://www.meetscompany.jp/events/linkid.js (from https://www.meetscompany.jp/events/)
+15:10:24	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.meetscompany.jphttps://event.meetscompany.jp/wp-content/uploads/2017/12/tokyo.png (from https://www.meetscompany.jp/events/item_detail/40?id=1969)
+15:10:24	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.meetscompany.jphttps://event.meetscompany.jp/wp-content/uploads/2017/12/osaka.png (from https://www.meetscompany.jp/events/item_detail/41?id=1983)
+15:10:24	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.meetscompany.jphttps://event.meetscompany.jp/wp-content/uploads/2017/12/nagoya.png (from https://www.meetscompany.jp/events/item_detail/42?id=1985)
+15:10:24	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.meetscompany.jphttps://event.meetscompany.jp/wp-content/uploads/2018/01/fukuoka.png (from https://www.meetscompany.jp/events/item_detail/44?id=1989)
+15:10:24	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.meetscompany.jphttps://event.meetscompany.jp/wp-content/uploads/2017/12/sapporo.png (from https://www.meetscompany.jp/events/item_detail/43?id=1987)
+15:11:12	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.meetscompany.jphttps://event.meetscompany.jp/wp-content/uploads/2017/12/tokyo.png (from https://www.meetscompany.jp/events/item_detail/40?id=1969)
+15:11:12	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.meetscompany.jphttps://event.meetscompany.jp/wp-content/uploads/2017/12/osaka.png (from https://www.meetscompany.jp/events/item_detail/41?id=1983)
+15:11:12	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.meetscompany.jphttps://event.meetscompany.jp/wp-content/uploads/2017/12/nagoya.png (from https://www.meetscompany.jp/events/item_detail/42?id=1985)
+15:11:12	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.meetscompany.jphttps://event.meetscompany.jp/wp-content/uploads/2018/01/fukuoka.png (from https://www.meetscompany.jp/events/item_detail/44?id=1989)
+15:11:12	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.meetscompany.jphttps://event.meetscompany.jp/wp-content/uploads/2017/12/sapporo.png (from https://www.meetscompany.jp/events/item_detail/43?id=1987)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 23 seconds : 1324 links scanned, 1287 files written (55393838 bytes overall) [47126596 bytes received at 75644 bytes/sec], 15549923 bytes transferred using HTTP compression in 494 files, ratio 31%, 8.6 requests per connection
+(25 errors, 16 warnings, 0 messages)
