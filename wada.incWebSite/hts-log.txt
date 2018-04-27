@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 27 Apr 2018 14:43:20 at https://wada.dym.cc/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ja, en, *" https://wada.dym.cc/ -O1 "C:\My Web Sites\wada.inc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:56:32	Error: 	"Error when decompressing" (-1) at link https://wada.dym.cc/代表挨拶/ (from https://wada.dym.cc/)
+14:56:32	Error: 	"Error when decompressing" (-1) at link https://wada.dym.cc/会社概要/ (from https://wada.dym.cc/)
+14:56:59	Error: 	"Not Found" (404) at link https://wada.dym.cc/popmake-171 (from https://wada.dym.cc/)
+14:56:59	Error: 	"Not Found" (404) at link https://wada.dym.cc/popmake-432 (from https://wada.dym.cc/)
+14:56:59	Error: 	"Not Found" (404) at link https://wada.dym.cc/popmake-347 (from https://wada.dym.cc/)
+14:56:59	Error: 	"Not Found" (404) at link https://wada.dym.cc/popmake-435 (from https://wada.dym.cc/)
+14:56:59	Error: 	"Not Found" (404) at link https://wada.dym.cc/popmake-359 (from https://wada.dym.cc/)
+14:56:59	Error: 	"Not Found" (404) at link https://wada.dym.cc/popmake-438 (from https://wada.dym.cc/)
+14:56:59	Error: 	"Not Found" (404) at link https://wada.dym.cc/popmake-363 (from https://wada.dym.cc/)
+14:56:59	Error: 	"Not Found" (404) at link https://wada.dym.cc/popmake-440 (from https://wada.dym.cc/)
+14:57:04	Warning: 	File not parsed, looks like binary: https://wada.dym.cc/wp-content/themes/lightning/library/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+14:57:04	Warning: 	File not parsed, looks like binary: https://wada.dym.cc/wp-content/themes/lightning/design_skin/origin/fonts/glyphicons-halflings-regular.woff2
+14:57:06	Warning: 	Moved Permanently for https://wada.dym.cc/?p=276
+14:57:06	Warning: 	File has moved from https://wada.dym.cc/?p=276 to https://wada.dym.cc/contentslist/
+14:57:09	Error: 	"Not Found" (404) at link wada.dym.cc/archives/category/word/ (from wada.dym.cc/contentslist/)
+14:57:09	Warning: 	Moved Permanently for https://wada.dym.cc/?p=14
+14:57:09	Warning: 	File has moved from https://wada.dym.cc/?p=14 to https://wada.dym.cc/register/
+14:57:09	Error: 	"Not Found" (404) at link https://wada.dym.cc/register/wada.dym.cc (from https://wada.dym.cc/register/)
+14:57:09	Warning: 	Moved Permanently for https://wada.dym.cc/?p=2
+14:57:09	Warning: 	File has moved from https://wada.dym.cc/?p=2 to https://wada.dym.cc/toiawase/
+14:57:11	Warning: 	Moved Permanently for https://wada.dym.cc/archives/237/
+14:57:11	Warning: 	File has moved from https://wada.dym.cc/archives/237/ to https://wada.dym.cc/register/?_s2member_vars=post..level..1..post..237..L2FyY2hpdmVzLzIzNy8%3D&_s2member_sig=1524808611-184af5798a8fabdf6a381296208076a3
+14:57:11	Warning: 	Moved Permanently for https://wada.dym.cc/?p=26
+14:57:11	Warning: 	File has moved from https://wada.dym.cc/?p=26 to https://wada.dym.cc/archives/26/
+14:57:11	Warning: 	Moved Permanently for https://wada.dym.cc/archives/333/
+14:57:11	Warning: 	File has moved from https://wada.dym.cc/archives/333/ to https://wada.dym.cc/register/?_s2member_vars=post..level..1..post..333..L2FyY2hpdmVzLzMzMy8%3D&_s2member_sig=1524808615-5bbbaa2750b142e109f939b3f2b69286
+14:57:18	Warning: 	Moved Permanently for https://wada.dym.cc/?p=406
+14:57:18	Warning: 	File has moved from https://wada.dym.cc/?p=406 to https://wada.dym.cc/pop-ctc/
+14:57:18	Warning: 	Moved Permanently for https://wada.dym.cc/?p=243
+14:57:18	Warning: 	File has moved from https://wada.dym.cc/?p=243 to https://wada.dym.cc/archives/243/
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 1 seconds : 158 links scanned, 136 files written (171455674 bytes overall) [138648347 bytes received at 164861 bytes/sec], 168669848 bytes transferred using HTTP compression in 126 files, ratio 79%, 1.5 requests per connection
+(12 errors, 18 warnings, 0 messages)
