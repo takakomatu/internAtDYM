@@ -1,0 +1,1 @@
+self.addEventListener('push',function(event){const json=event.data.json();const promiseChain=self.registration.showNotification(json.title,json);event.waitUntil(promiseChain);});self.addEventListener('notificationclick',function(event){event.notification.close();const promiseChain=self.clients.openWindow(event.notification.data.url);event.waitUntil(promiseChain);});
